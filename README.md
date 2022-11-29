@@ -3,5 +3,5 @@ Detecting Covid-19 From Chest X-Ray Images Using Convolutional Neural Networks (
 
 Dataset link: https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset
 
-System Diagram: system diagram covid detector
-(https://user-images.githubusercontent.com/119410565/204558483-b7aafc7f-ed44-419c-a9d1-491ba8906af2.png)
+System Diagram:
+![system diagram covid detector](https://user-images.githubusercontent.com/119410565/204558483-b7aafc7f-ed44-419c-a9d1-491ba8906af2.png)
